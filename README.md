@@ -1,6 +1,6 @@
 # botshare
 
-pkg install update && upgrade
+#pkg install update && upgrade
 pkg intall git
 pip intall requests
 pup install rich
