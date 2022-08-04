@@ -5,7 +5,7 @@ pkg install git
 
 pip install requests
 
-pup install rich
+pip install rich
 
 git clone https://github.com/dib-dr/botshare
 
