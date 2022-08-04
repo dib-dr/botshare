@@ -1,9 +1,9 @@
 
 pkg install update && upgrade
 
-pkg intall git
+pkg install git
 
-pip intall requests
+pip install requests
 
 pup install rich
 
